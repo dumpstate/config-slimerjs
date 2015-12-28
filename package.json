@@ -1,0 +1,13 @@
+{
+  "name": "config-slimerjs",
+  "version": "0.1.0",
+  "description": "Simple configuration module for SlimerJS.",
+  "main": "config.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dumpstate/config-slimerjs.git"
+  },
+  "author": "albert <albert@evojam.com>",
+  "license": "MIT"
+}
